@@ -2,7 +2,7 @@
 
 ## Descripcion
 
-El proyecto esta echo con `Express` y la base de datos con `MongoDB`
+El proyecto esta hecho con `Express` y la base de datos con `MongoDB`
 
 ## Servico de desarrollo
 
